@@ -16,7 +16,6 @@ function getToken() {
       }
     }
   ).then(res => console.log(res));
-  return '';
 }
 
 function forkRepo() {
